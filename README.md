@@ -18,6 +18,6 @@ _1 TILs and counting..._
 
 ---
 
-### Chrome
+### mysql
 
 - [Import a mysql dump from terminal](mysql/import-mysql-dump-terminal.md)
