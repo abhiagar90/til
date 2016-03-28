@@ -14,6 +14,7 @@ _1 TILs and counting..._
 ### Categories
 
 * [MySQL](#mysql)
+* [Mozilla] (#mozilla)
 
 
 ---
@@ -21,3 +22,7 @@ _1 TILs and counting..._
 ### mysql
 
 - [Import a mysql dump from terminal](mysql/import-mysql-dump-terminal.md)
+
+### mozilla
+
+- [Open Preferences in Mozilla via URL] (mozilla/settings_open_from_url.md)
