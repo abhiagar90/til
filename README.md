@@ -1,5 +1,4 @@
 # til
-Today I learned# TIL
 
 > Today I Learned
 
