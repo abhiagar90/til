@@ -25,3 +25,9 @@ _1 TILs and counting..._
 ### mozilla
 
 - [Open Preferences in Mozilla via URL] (mozilla/settings_open_from_url.md)
+
+
+
+TODO:
+
+Add http://askubuntu.com/questions/246647/jpeg-files-to-pdf
