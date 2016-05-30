@@ -25,6 +25,7 @@ _1 TILs and counting..._
 ### mozilla
 
 - [Open Preferences in Mozilla via URL] (mozilla/settings_open_from_url.md)
+- pdftk to add passwords, pdftk filename.pdf output outputfilename.pdf userpw password
 
 
 
