@@ -29,6 +29,7 @@ _1 TILs and counting..._
 
 
 
-TODO:
+### TODO:
 
-Add http://askubuntu.com/questions/246647/jpeg-files-to-pdf
+- Add http://askubuntu.com/questions/246647/jpeg-files-to-pdf
+- pdftk to add passwords, pdftk filename.pdf output outputfilename.pdf userpw password
