@@ -16,4 +16,7 @@ trim a string property : trim, ltrim, rtrim
 
 match (n:company) with n, split(n.regauth,"-") as reg set n.regauth = reg[1] return distinct(n.regauth) split!
 
+match (n:businessperson) set n.aliases = []
+append to an array match (n:businessperson) set n.aliases = n.aliases + name 
+
 
