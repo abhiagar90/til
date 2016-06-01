@@ -12,3 +12,4 @@ http://www.tutorialspoint.com/neo4j/neo4j_cql_string_functions.htm
 
 neo4j regex match substring match
 http://stackoverflow.com/questions/24094882/how-can-i-make-a-string-contain-filter-on-neo4j-cypher
+trim a string property : ltrim
