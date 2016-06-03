@@ -21,3 +21,6 @@ append to an array match (n:businessperson) set n.aliases = n.aliases + name
 
 
 type(r)
+
+
+phpmyadmin structure of table
