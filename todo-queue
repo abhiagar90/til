@@ -25,5 +25,7 @@ type(r)
 
 phpmyadmin structure of table while exporting 
 
+remove mysql completely: http://askubuntu.com/questions/172514/how-do-i-uninstall-mysql
+
 
 mysql restart:  sudo /etc/init.d/mysql restart
