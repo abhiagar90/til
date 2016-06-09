@@ -29,3 +29,5 @@ remove mysql completely: http://askubuntu.com/questions/172514/how-do-i-uninstal
 
 
 mysql restart:  sudo /etc/init.d/mysql restart
+
+http://askubuntu.com/questions/67780/not-a-com32r-image-error-when-trying-to-install-from-a-usb-key
